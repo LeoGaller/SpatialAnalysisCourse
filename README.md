@@ -51,17 +51,17 @@ Spatial projection refers to the mathematical calculations performed to flatten 
 The mathematical calculations used in spatial projections are designed to optimize the relative size and shape of a particular region on the globe.
 <br>
 ![Projected CRS](python_foundation/images/spatial-projection-transformations-crs.png)
-<br>
+
 ### Commonly formats used to store coordinates
 * Degrees, Minutes and Seconds
-<br>
+
 ![Explanation about the coordinates](python_foundation/images/Screenshot_1.png)
-<br>
+
 * Decimal Degrees
 
 ![Decimal Degrees Explanation](python_foundation/images/screenshot_2.png)
-<br>
+
 ![Converting Minutes to Decimals](python_foundation/images/screenshot_3.png)
-<br>
+
 ## Tips
 An easy and simple way to remove duplicates from a list is to convert it to a set.
