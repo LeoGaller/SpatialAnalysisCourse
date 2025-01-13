@@ -15,6 +15,7 @@ Learning Python for Data Analysis and use it with Biker's Buddy.
 1. [Course Path](https://courses.spatialthoughts.com/python-foundation.html)
 2. [Video Lectures](https://www.youtube.com/playlist?list=PLppGmFLhQ1HJspXSA0asH9kw1OhlLrxHT)
 3. [Auxiliar material for CRS](https://www.earthdatascience.org/courses/use-data-open-source-python/intro-vector-data-python/spatial-data-vector-shapefiles/geographic-vs-projected-coordinate-reference-systems-python/)
+4. https://docs.python.org/3/library/index.html (Remember to check by the version you are using)
 
 ## Video Log
 1. [Class 1](https://www.youtube.com/watch?v=rHgsslH-_y0&list=PLppGmFLhQ1HJspXSA0asH9kw1OhlLrxHT&index=1) - OK
@@ -38,18 +39,18 @@ Learning Python for Data Analysis and use it with Biker's Buddy.
 
 ### Geographic CRS: 
 A geographic CRS uses a grid that wraps around the entire globe. This means that each point on the globe is defined using the SAME coordinate system and the same units as defined within that particular geographic CRS. Geographic coordinate reference systems are best for global analysis however it is important to remember that distance is distorted using a geographic lat / long CRS.
-<br>
+
 ![Earth](python_foundation/images/latitude-longitude-globe-ESRI.gif)
-<br>
+
 The geographic WGS84 lat/long CRS has an origin - (0,0) - located at the intersection of the Equator (0° latitude) and Prime Meridian (0° longitude) on the globe.
-<br>
+
 ![Geographic CRS](python_foundation/images/2018-02-05-spatial03-geographic-vs-projected_3_0.png)
-<br>
+
 ### Projected CRS:
 Spatial projection refers to the mathematical calculations performed to flatten the 3D data onto a 2D plane (your computer screen or a paper map). Projecting data from a round surface onto a flat surface, results in visual modifications to the data when plotted on a map. Some areas are stretched and some are compressed. You can see this distortion when you look at a map of the entire globe.
 
 The mathematical calculations used in spatial projections are designed to optimize the relative size and shape of a particular region on the globe.
-<br>
+
 ![Projected CRS](python_foundation/images/spatial-projection-transformations-crs.png)
 
 ### Commonly formats used to store coordinates
