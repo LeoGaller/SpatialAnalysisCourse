@@ -30,7 +30,8 @@ Learning Python for Data Analysis and use it with Biker's Buddy.
 10. [Class 10](https://www.youtube.com/watch?v=rcO29Q5Nd3Y&list=PLppGmFLhQ1HJspXSA0asH9kw1OhlLrxHT&index=12) - OK
 11. [Class 11](https://www.youtube.com/watch?v=kgY2npOQFM8&list=PLppGmFLhQ1HJspXSA0asH9kw1OhlLrxHT&index=14) - OK
 12. [Class 12](https://www.youtube.com/watch?v=BqBPWQt9PL0&list=PLppGmFLhQ1HJspXSA0asH9kw1OhlLrxHT&index=16) - OK
-13. [Class 13](https://www.youtube.com/watch?v=WBip-hbQYnM&list=PLppGmFLhQ1HJspXSA0asH9kw1OhlLrxHT&index=18)
+13. [Class 13](https://www.youtube.com/watch?v=WBip-hbQYnM&list=PLppGmFLhQ1HJspXSA0asH9kw1OhlLrxHT&index=18) - OK
+14. [Class 14](https://www.youtube.com/watch?v=nMS_al2za3U&list=PLppGmFLhQ1HJspXSA0asH9kw1OhlLrxHT&index=21)
 
 ## Notes
 ### Coordinates Formats and precision
